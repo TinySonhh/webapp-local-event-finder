@@ -1,4 +1,5 @@
-# webapp-local-event-finder
+# webapp-local-event-finder #
+----
 This 8-day plan Local Event Finder webapp, simply with city dropdown + event list.
  * Manage it with Trello.
  * Deploy by Mar 5, 2025 Then pitch it for gigs.
@@ -15,6 +16,10 @@ Building app this time is an extra task to do, as I mainly focus on managing tas
 Next project I will also use Jira.
 
 ## Project Plan ##
+
+![image](https://github.com/user-attachments/assets/6199d2cf-1f08-47bc-8113-e3498997f85e)
+
+### Shared documents ###
 All documents, links below are all shared and commentable. It'll be great if you leave some comment there.
 * Google Docs : [https://docs.google.com/document/d/1K2HbuJE6w_nvpPUQ9kyV3FT1fDEFW47KZWukcqiQ4vc/edit?tab=t.egxsuvp9nmne](https://docs.google.com/document/d/1K2HbuJE6w_nvpPUQ9kyV3FT1fDEFW47KZWukcqiQ4vc/edit?usp=sharing)
 * Figma:
