@@ -1,0 +1,17 @@
+ErrorDocument 401 "Unauthorized"
+#ErrorDocument 403 "403"
+#ErrorDocument 404 "404"
+RewriteEngine On
+RewriteBase /
+Options -Indexes -MultiViews
+#### PERSISTENT CONTENT ####
+DirectoryIndex index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#RewriteRule ^(.*)$ zyro/$1 [L,QSA]
+
+
+#SetEnv MY_DB_SERVERNAME sql615.main-hosting.eu
+
+Header always set X-Frame-Options SAMEORIGIN
