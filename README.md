@@ -32,4 +32,10 @@ All documents, links below are all shared and commentable. It'll be great if you
 
 ![image](https://github.com/user-attachments/assets/b8f30378-c532-49c1-aa3c-928f9d0332e1)
 
+## Day 1, Day 2 ##
+Stick well to the plan, and with outstanding result.
+
+Check https://docs.google.com/document/d/1K2HbuJE6w_nvpPUQ9kyV3FT1fDEFW47KZWukcqiQ4vc/edit?tab=t.5lhpjiltvf6m#heading=h.e4wuxvf14bfc for more detail
+- Task status and Trello status updated
+
 ## Content will be updated daily ##
