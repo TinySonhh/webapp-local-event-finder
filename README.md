@@ -38,4 +38,27 @@ Stick well to the plan, and with outstanding result.
 Check https://docs.google.com/document/d/1K2HbuJE6w_nvpPUQ9kyV3FT1fDEFW47KZWukcqiQ4vc/edit?tab=t.5lhpjiltvf6m#heading=h.e4wuxvf14bfc for more detail
 - Task status and Trello status updated
 
+## Day 3 ##
+Today both PM and dev had our own matters, so we had to work late.
+
+As we are already good on Homepage, dev suggests to switch to the next task, Start coding the result page.
+
+During the time working on the result-page, dev found lots of code cannot be reused between files, and there will be a lot of duplication in future.
+
+**They suggested switching to PHP instead of pure HTML. We should do it as soon as possible.**
+
+We already discuss, and add a card in the TODO so that everyone can be aware of and to contribute their solution, with a card with higher priority.
+
+The code result page can be continued working as it can be merged later into PHP.
+
+Trello:
+
+![image](https://github.com/user-attachments/assets/c9383061-016d-4a27-877e-ca7d765ae917)
+
+Result-page:
+
+![image](https://github.com/user-attachments/assets/29f3547b-6054-4776-b1b0-3e3c3ec00524)
+
+DAY 3 ended quite smoothly, but still there will be a BIG PROPOSAL to be decided by tomorrow before noon.
+
 ## Content will be updated daily ##
