@@ -61,4 +61,22 @@ Result-page:
 
 DAY 3 ended quite smoothly, but still there will be a BIG PROPOSAL to be decided by tomorrow before noon.
 
+## DAY 4, DAY 5 : OFF ##
+* Due to unexpectedly urgent matters that all members cannot work on the projects but we can meet face-to-face.
+* We also took the chance to discuss the PHP switching and led to the agreement.
+
+### Go with Option 2 - PHP switching ###
+* We decided to go with Option 2 - PHP switching and deploy to the team member’s host.
+* ⇒ That unexpected matter still didn’t impact our plan. We will also modify the task list a little bit.
+
+## DAY 6 ##
+* The team performance is so good, they now finished the deploy task to live host as bellow Trello updated.
+* Day 6 ended very smoothly. The devs said that the development became extremely easier when we switch from pure HTML to PHP.
+
+![image](https://github.com/user-attachments/assets/d9b22610-d467-4065-806f-2cf7baafb34e)
+
+
+Let’s do more polishing and go live the app on DAY 7
+
+
 ## Content will be updated daily ##
