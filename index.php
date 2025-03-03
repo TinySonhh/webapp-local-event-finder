@@ -30,7 +30,7 @@
 	</header>
 
 	<section class="container text-center h-75 align-content-center">
-		<form action="./result-page.html">
+		<form action="./result-page.php">
 			<div class="form-group">
 				<label for="citySelection">Select a city</label>
 				<select name="citySelection" id="citySelection" class="form-control">			
