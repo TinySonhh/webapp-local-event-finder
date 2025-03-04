@@ -78,5 +78,22 @@ DAY 3 ended quite smoothly, but still there will be a BIG PROPOSAL to be decided
 
 Let’s do more polishing and go live the app on DAY 7
 
+## DAY 7 ##
+* All tasks are well completed.
+* The app went live on March 04, 2025
+* URL: https://localeventfinder.hssoftvn.com
+* Technology:
+  * Powered by PHP, CSS, Bootstrap, JS, jQuery, Font Awesome
+  * Hosted on Hostinger
+* Features:
+  * City search
+  * Event listing
+* Next steps:
+  * maintenance
+  * add all cities in Vietnam
+  * real time update all events of supported cities
+  * link to event host website
+* CALL OF ACTIONS:
+  * We are lacking of DEVs, please join us to make this web-app more meaningful and useful for everyone.
 
 ## Content will be updated daily ##
