@@ -94,13 +94,16 @@
 				<div class="fs-large pointer"><b>Local Event Finder</b></div>
 				<div class="">Never miss any events </div>
 			</div>
+			<button type="button" class="button-back ml-auto btn btn-link">
+				<i class="fa fa-arrow-circle-left" style="font-size: 1.5rem;"></i>
+			</button>
 		</div>
 		<hr class="bg-light mt-0 shadow"/>
 	</header>
 	
 	<h3>Event list</h3>
 
-	<div class="container">
+	<div class="container min-vh-100">
 		<div>Events in <span class="city-name"><?=$cityName?></span> this week <span> <?=count($eventsByCity) ?></span>:</div>
 		<div class="event-list">
 <?php
@@ -125,6 +128,12 @@
 	</div>
 
 </body>
+
+<script>
+	$('.button-back ').on('click', ()=>{
+		history.back()
+	})
+</script>
 
 <?php require_once "views/footer.php"; ?>
 
