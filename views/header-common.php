@@ -22,3 +22,8 @@
 	<link rel="stylesheet" href="<?=wrap_file('css/app.css');?>">
 	<script src="<?=wrap_file('js/app.js');?>"></script>
 </head>
+
+<?php
+	require_once "common/meta_seo_header.php";
+	require_once "common/meta_seo.php";
+?>

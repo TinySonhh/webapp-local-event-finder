@@ -1,5 +1,6 @@
 <?php
 	require_once "__conf__/__config.php";
+	$isFromHomePage = 1;
 ?>
 
 <?php
