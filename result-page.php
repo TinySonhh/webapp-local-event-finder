@@ -1,4 +1,8 @@
 <?php
+	require_once "__conf__/__config.php";
+?>
+
+<?php
 	$eventList = [
 		[
 			"city"	=>	"hcmc",
@@ -76,29 +80,15 @@
 		}
 	}
 ?>
+
 <html>
 
-<head>
-	<title>Local Event Finder</title>
-
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
-	<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="images/ic_logo.png">	
-	
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css" rel="stylesheet"> 
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>	
-	
-</head>
+<?php require_once "views/header-common.php"; ?>
 
 <body class="container bg-white border">
 	<header>
 		<div class="mx-0 my-0 my-md-2 py-2 px-1 d-flex justify-content-start align-items-center">
-			<img src="images/ic_logo.png" width="36" height="36" class="rounded float-left" />
+			<img src="<?=wrap_file('images/ic_logo.png');?>" width="36" height="36" class="rounded float-left" />
 			<div class="mx-2 my-auto">
 				<div class="fs-large pointer"><b>Local Event Finder</b></div>
 				<div class="">Never miss any events </div>
@@ -135,7 +125,6 @@
 
 </body>
 
-<footer>
-</footer>
+<?php require_once "views/footer.php"; ?>
 
 </html>

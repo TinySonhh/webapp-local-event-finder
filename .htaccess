@@ -10,7 +10,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 #RewriteRule ^(.*)$ zyro/$1 [L,QSA]
-
+RewriteRule ^events-by-city/(.+)$ result-page.php?citySelection=$1 [L,QSA]
 
 #SetEnv MY_DB_SERVERNAME sql615.main-hosting.eu
 
